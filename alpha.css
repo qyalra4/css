@@ -1,0 +1,17 @@
+.button {
+    border: none;
+    margin-top: 45px;
+    font-size: 1.4rem;
+    color: #000000;
+    border-radius: 30px;
+    padding: 10px 20px;
+    background-color: #FCE803;
+}
+
+span {
+
+    color: #FCE803;
+    border-radius: 20px;
+    padding: 3px 6px;
+    background-color: #000000;
+}
